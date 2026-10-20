@@ -53,7 +53,7 @@ create_environment:
 	
 	conda create --name $(PROJECT_NAME) python=$(PYTHON_VERSION) -y
 	
-	@echo ">>> conda env created. Activate with:\nconda activate $(PROJECT_NAME)"
+	@echo ">>> conda env created. Activate with:\n conda activate $(PROJECT_NAME)"
 	
 
 
