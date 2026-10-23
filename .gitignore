@@ -189,3 +189,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Personal testing files
+notebooks/Testing items.ipynb
