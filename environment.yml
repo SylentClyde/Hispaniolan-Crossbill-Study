@@ -1,0 +1,13 @@
+name: Hispaniolan_cs
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pyarrow
+  - thefuzz
+  - geopandas
+  - geodatasets
+  - contextily
+  - xyzservices
+  

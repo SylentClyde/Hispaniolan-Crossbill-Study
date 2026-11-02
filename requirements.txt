@@ -12,4 +12,6 @@ ruff
 Plotnine
 scikit-learn
 pyarrow
+geopandas
+contextily
 -e .
